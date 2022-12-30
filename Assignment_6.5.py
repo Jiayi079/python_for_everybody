@@ -20,4 +20,4 @@ else:
 
 # removes whitespace at the left by using lstrip() functrion
 # convert this string become float by using float() function
-print(float(str.lstrip())
+print(float(str.lstrip()))
